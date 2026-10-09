@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# SQLite generado
+*.db
+*.db-wal
+*.db-shm
+
+# Archivos temporales
+*.log
+
+# Artefactos de compilación
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/

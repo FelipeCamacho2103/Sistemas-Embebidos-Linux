@@ -1,6 +1,7 @@
 # Servidor Chat
 
 Proyecto de servidor de chat desarrollado para Sistemas Linux Embebidos.
+
 Integrantes:
 
 -Valeria Corredor

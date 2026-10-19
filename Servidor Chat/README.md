@@ -2,9 +2,13 @@
 
 Proyecto de servidor de chat desarrollado para Sistemas Linux Embebidos.
 Integrantes:
+
 -Valeria Corredor
+
 -Sergio González
+
 -Felipe Camacho
+
 Para conectarse al servidor, es necesario activarlo en un dispositivo con una distro basada en debian y utilizar 
 el cliente debian o windows de acuerdo al SO. Los clientes deben estar dentro de su alcance de red y configurar, la primera vez, la dirección IP del servidor y el puerto con el servicio TCP. 
 Características

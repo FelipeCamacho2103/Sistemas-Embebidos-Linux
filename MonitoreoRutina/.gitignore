@@ -1,0 +1,25 @@
+# PlatformIO
+.pio/
+
+# ESP-IDF
+build/
+sdkconfig.old
+managed_components/
+
+# VS Code: configuracion generada localmente
+.vscode/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Credenciales
+.env
+.env.local
+secrets.h
+
+# Archivos temporales
+*.log
+*.swp
+*~
